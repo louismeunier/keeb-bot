@@ -7,7 +7,7 @@ This bot is currently unhosted, so if you would like to add it to your own serve
 1) Create an application at https://discord.com/developers/applications
 2) Create a bot for that application, give it the scopes of reading messages, writing messages, and adding reactions, then visit the resulting url, where you will be prompted to add the bot to your server.
 3) On your/a new reddit account, go to https://old.reddit.com/prefs/apps/, and create a new application (you don't really need to fill out anything in particular for each value; just remember what you put.)
-4) Clone this repository with `git clone git https://github.com/louismeunier/keeb-bot`
+4) Clone this repository with `git clone https://github.com/louismeunier/keeb-bot`
 5) Install the dependencies with `npm install`
 6) Create two new files; `.env` and `botconfig.json`
   a) The `.env` should contain:
